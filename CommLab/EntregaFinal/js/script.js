@@ -1,4 +1,6 @@
+
 alert ("Te doy la bienvenida a esta página web para adentrarte a la arquitectura desde la cotidaneidad de estar en casa")
+
 // var player es una manera de escribir document.getElementById("player") mas corto
 var player = document.getElementById("player");
 var mensaje = document.getElementById("mensaje");
